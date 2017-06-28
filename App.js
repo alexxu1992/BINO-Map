@@ -5,7 +5,6 @@ import {Provider} from 'react-redux';
 
 // Costume components
 import store from './src/store';
-// import Map_app from './src/containers/Map_Container';
 import NavigatorIOSApp from './src/components/NavigatorIOSApp'
 
 
