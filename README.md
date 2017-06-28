@@ -7,7 +7,7 @@ Here are some steps to run this ReactNative app:
    npm install -g create-react-native-app
    
 2. Clone this repo to local:
-   git clone <url>
+   git clone git@github.com:alexxu1992/BINO-Map.git
    
 3. Entering the local repo in terminal, install all the dependencies:
    npm install
