@@ -14,9 +14,9 @@ Here are some steps to run this ReactNative app:
    
 4. After finish the installation, start the local server:
    npm start
-   (We should see the QR code appear in the terminal)
+   (We should see a big QR code appearing inside the terminal)
      
-5. Switch to our cell phone, download an app called "Expo"
+5. Switch to our cell phone, downloading an app called "Expo".
 
 6. Turn on Expo, using the scan feature to scan the QR code on your computer.
 
